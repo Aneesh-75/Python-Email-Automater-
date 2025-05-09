@@ -1,0 +1,4 @@
+Name,Email,(YOU CAN ADD MORE VARIABLES HERE AND USE F STRING FORMATTING TO ADD SOME MORE PERSONLIZATION) 
+Alice,alice@example.com,
+Bob,bob@example.com,
+Charlie,charlie@example.com,
